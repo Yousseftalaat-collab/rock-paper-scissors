@@ -1,4 +1,4 @@
-<div align="center">
+
 <h1 align="center">🎮 Rock Paper Scissors - Python (CLI Game)</h1>
 
 <p align="center">
@@ -41,4 +41,4 @@
 
 <h3>👨‍💻 Author</h3>
 <p>Youssef Talaat</p>
-</div>
+
