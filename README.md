@@ -39,4 +39,4 @@
 </ol>
 
 <h3>👨‍💻 Author</h3>
-<p align="left">Made withby >Youssef Talaat</p>
+<p>Youssef Talaat</p>
