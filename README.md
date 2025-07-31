@@ -18,14 +18,14 @@
 
 <h2>🧠 How the Game Works</h2>
 <ol>
-  <li>1. You choose either `rock`, `paper`, or `scissors`.</li>
-  <li>2. The computer randomly picks one of the three options.</li>
+  <li> You choose either `rock`, `paper`, or `scissors`.</li>
+  <li> The computer randomly picks one of the three options.</li>
   <li>
-    3. The winner is determined based on classic rules: - 🪨 Rock beats ✂️
+     The winner is determined based on classic rules: - 🪨 Rock beats ✂️
     Scissors - 📄 Paper beats 🪨 Rock - ✂️ Scissors beats 📄 Paper
   </li>
-  <li>>4. The result (Win / Lose / Draw) is shown.</li>
-  <li>5. You’ll be asked if you want to play again.</li>
+  <li>> The result (Win / Lose / Draw) is shown.</li>
+  <li> You’ll be asked if you want to play again.</li>
 </ol>
 
 <p>🔁 The game continues in a loop until you decide to quit.</p>
