@@ -21,10 +21,12 @@
   <li> You choose either `rock`, `paper`, or `scissors`.</li>
   <li> The computer randomly picks one of the three options.</li>
   <li>
-     The winner is determined based on classic rules: - 🪨 Rock beats ✂️
-    Scissors - 📄 Paper beats 🪨 Rock - ✂️ Scissors beats 📄 Paper
+     The winner is determined based on classic rules: 
+     🪨 Rock beats ✂️Scissors  
+    📄 Paper beats 🪨 Rock 
+    ✂️ Scissors beats 📄 Paper
   </li>
-  <li>> The result (Win / Lose / Draw) is shown.</li>
+  <li> The result (Win / Lose / Draw) is shown.</li>
   <li> You’ll be asked if you want to play again.</li>
 </ol>
 
